@@ -1,7 +1,7 @@
 
 
 ### Apresentação  
-### <div align="center">👋 Olá, sou desenvolvedor backend Elixir há quase 4 anos 👨‍💻 Trabalho remotamente no momento 🚀</div>  
+### <div align="center">👋 Olá, sou desenvolvedor backend Elixir há quase 4 anos 👨‍💻</div>  
   
 
 ### Empresa atual  
