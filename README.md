@@ -1,5 +1,5 @@
 
-### <div align="center"> Olá, 💻</div>  
+### <div align="center"> Olá, sou Wagner, desenvolvedor Elixir backend 💻</div>  
   
 
 ### Empresa atual  
