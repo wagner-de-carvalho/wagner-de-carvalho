@@ -2,10 +2,6 @@
 ### <div align="center"> Olá, sou Wagner, desenvolvedor Elixir backend 💻</div>  
   
 
-### Empresa atual  
-- 🔭 Atualmente trabalho na [Premiersoft](https://premiersoft.net/)  
-  
-
 ### Aprendizado contínuo  
 - *🌱 Estou aprendendo sobre docker, swarm e Kubernetes*  
   
