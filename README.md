@@ -1,34 +1,22 @@
 
 
 ### Apresentação  
-### ***<div align="center">👋 Olá, sou desenvolvedor backend Elixir há quase 4 anos 👨‍💻 Trabalho remotamente no momento 🚀</div>***  
+### ***<div align="center">👋 Olá </div>***  
   
-
-
 
 ### Empresa atual  
 - 🔭 Atualmente trabalho na [Premiersoft](https://premiersoft.net/)  
   
-
-
-
 ### Aprendizado contínuo  
 - *🌱 Estou aprendendo sobre docker, swarm e Kubernetes*  
   
-
-
-
 ### Tecnologias que mais uso atualmente  
 - ***⚡Elixir, Phoenix, MySQL, Postgres🖥️***  
   
-
 <br/>  
 
-
-## My Skill Set  
+## Habilidades  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -40,8 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -55,8 +41,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -68,10 +52,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-
 
 ### Meus Contatos  
 <div align="center">
@@ -86,40 +66,23 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-
 
 ### Estatísticas Github  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wagner-de-carvalho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Recent Blog Posts  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-
 
 ### Visitas ao perfil  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wagner-de-carvalho&&style=flat-square" align="center" />
 </div>  
-  
-
+ 
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
