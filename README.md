@@ -1,5 +1,5 @@
 
-### <div align="center"> Olá, sou Wagner, desenvolvedor Elixir backend 💻</div>  
+### <div align="center"> Olá, sou Wagner, desenvolvedor backend 💻</div>  
   
 
 ### Aprendizado contínuo  
